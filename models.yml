@@ -4,385 +4,385 @@ stt_models:
     latest:
       meta:
         name: "en_v3"
-        sample: "https://models.silero.ai/examples/en_sample.wav"
-      labels: "https://models.silero.ai/models/en/en_v1_labels.json"
-      jit: "https://models.silero.ai/models/en/en_v3_jit.model"
-      onnx: "https://models.silero.ai/models/en/en_v3.onnx"
-      jit_q: "https://models.silero.ai/models/en/en_v3_jit_q.model"
-      jit_skip: "https://models.silero.ai/models/en/en_v3_jit_skips.model"
-      jit_large: "https://models.silero.ai/models/en/en_v3_jit_large.model"
-      onnx_large: "https://models.silero.ai/models/en/en_v3_large.onnx"
-      jit_xsmall: "https://models.silero.ai/models/en/en_v3_jit_xsmall.model"
-      jit_q_xsmall: "https://models.silero.ai/models/en/en_v3_jit_q_xsmall.model"
-      onnx_xsmall: "https://models.silero.ai/models/en/en_v3_xsmall.onnx"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3.onnx"
+      jit_q: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit_q.model"
+      jit_skip: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit_skips.model"
+      jit_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit_large.model"
+      onnx_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_large.onnx"
+      jit_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit_xsmall.model"
+      jit_q_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_jit_q_xsmall.model"
+      onnx_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/latest/en_v3_xsmall.onnx"
     v4_0:
       meta:
         name: "en_v4_0"
-        sample: "https://models.silero.ai/examples/en_sample.wav"
-      labels: "https://models.silero.ai/models/en/en_v1_labels.json"
-      jit_large: "https://models.silero.ai/models/en/en_v4_0_jit_large.model"
-      onnx_large: "https://models.silero.ai/models/en/en_v4_0_large.onnx"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v4_0/en_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v4_0/en_v1_labels.json"
+      jit_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v4_0/en_v4_0_jit_large.model"
+      onnx_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v4_0/en_v4_0_large.onnx"
     v3:
       meta:
         name: "en_v3"
-        sample: "https://models.silero.ai/examples/en_sample.wav"
-      labels: "https://models.silero.ai/models/en/en_v1_labels.json"
-      jit: "https://models.silero.ai/models/en/en_v3_jit.model"
-      onnx: "https://models.silero.ai/models/en/en_v3.onnx"
-      jit_q: "https://models.silero.ai/models/en/en_v3_jit_q.model"
-      jit_skip: "https://models.silero.ai/models/en/en_v3_jit_skips.model"
-      jit_large: "https://models.silero.ai/models/en/en_v3_jit_large.model"
-      onnx_large: "https://models.silero.ai/models/en/en_v3_large.onnx"
-      jit_xsmall: "https://models.silero.ai/models/en/en_v3_jit_xsmall.model"
-      jit_q_xsmall: "https://models.silero.ai/models/en/en_v3_jit_q_xsmall.model"
-      onnx_xsmall: "https://models.silero.ai/models/en/en_v3_xsmall.onnx"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3.onnx"
+      jit_q: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit_q.model"
+      jit_skip: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit_skips.model"
+      jit_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit_large.model"
+      onnx_large: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_large.onnx"
+      jit_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit_xsmall.model"
+      jit_q_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_jit_q_xsmall.model"
+      onnx_xsmall: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/en_v3/en_v3_xsmall.onnx"
     v2:
       meta:
         name: "en_v2"
-        sample: "https://models.silero.ai/examples/en_sample.wav"
-      labels: "https://models.silero.ai/models/en/en_v1_labels.json"
-      jit: "https://models.silero.ai/models/en/en_v2_jit.model"
-      onnx: "https://models.silero.ai/models/en/en_v2.onnx"
-      tf: "https://models.silero.ai/models/en/en_v2_tf.tar.gz"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v2/en_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v2/en_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v2/en_v2_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v2/en_v2.onnx"
+      tf: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v2/en_v2_tf.tar.gz"
     v1:
       meta:
         name: "en_v1"
-        sample: "https://models.silero.ai/examples/en_sample.wav"
-      labels: "https://models.silero.ai/models/en/en_v1_labels.json"
-      jit: "https://models.silero.ai/models/en/en_v1_jit.model"
-      onnx: "https://models.silero.ai/models/en/en_v1.onnx"
-      tf: "https://models.silero.ai/models/en/en_v1_tf.tar.gz"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v1/en_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v1/en_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v1/en_v1_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v1/en_v1.onnx"
+      tf: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/en/v1/en_v1_tf.tar.gz"
   de:
     latest:
       meta:
         name: "de_v1"
-        sample: "https://models.silero.ai/examples/de_sample.wav"
-      labels: "https://models.silero.ai/models/de/de_v1_labels.json"
-      jit: "https://models.silero.ai/models/de/de_v1_jit.model"
-      onnx: "https://models.silero.ai/models/de/de_v1.onnx"
-      tf: "https://models.silero.ai/models/de/de_v1_tf.tar.gz"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/de/v1/de_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/de/v1/de_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/de/v1/de_v1_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/de/v1/de_v1.onnx"
+      tf: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/de/v1/de_v1_tf.tar.gz"
   es:
     latest:
       meta:
         name: "es_v1"
-        sample: "https://models.silero.ai/examples/es_sample.wav"
-      labels: "https://models.silero.ai/models/es/es_v1_labels.json"
-      jit: "https://models.silero.ai/models/es/es_v1_jit.model"
-      onnx: "https://models.silero.ai/models/es/es_v1.onnx"
-      tf: "https://models.silero.ai/models/es/es_v1_tf.tar.gz"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/es/v1/es_sample.wav"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/es/v1/es_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/es/v1/es_v1_jit.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/es/v1/es_v1.onnx"
+      tf: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/es/v1/es_v1_tf.tar.gz"
   ua:
     latest:
       meta:
         name: "ua_v3"
-        sample: "https://models.silero.ai/examples/ua_sample.wav"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/latest/ua_sample.wav"
         credits:
           datasets:
             speech-recognition-uk: https://github.com/egorsmkv/speech-recognition-uk
-      labels: "https://models.silero.ai/models/ua/ua_v1_labels.json"
-      jit: "https://models.silero.ai/models/ua/ua_v3_jit.model"
-      jit_q: "https://models.silero.ai/models/ua/ua_v3_jit_q.model"
-      onnx: "https://models.silero.ai/models/ua/ua_v3.onnx"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/latest/ua_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/latest/ua_v3_jit.model"
+      jit_q: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/latest/ua_v3_jit_q.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/latest/ua_v3.onnx"
     v3:
       meta:
         name: "ua_v3"
-        sample: "https://models.silero.ai/examples/ua_sample.wav"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v3/ua_sample.wav"
         credits:
           datasets:
             speech-recognition-uk: https://github.com/egorsmkv/speech-recognition-uk
-      labels: "https://models.silero.ai/models/ua/ua_v1_labels.json"
-      jit: "https://models.silero.ai/models/ua/ua_v3_jit.model"
-      jit_q: "https://models.silero.ai/models/ua/ua_v3_jit_q.model"
-      onnx: "https://models.silero.ai/models/ua/ua_v3.onnx"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v3/ua_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v3/ua_v3_jit.model"
+      jit_q: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v3/ua_v3_jit_q.model"
+      onnx: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v3/ua_v3.onnx"
     v1:
       meta:
         name: "ua_v1"
-        sample: "https://models.silero.ai/examples/ua_sample.wav"
+        sample: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v1/ua_sample.wav"
         credits:
           datasets:
             speech-recognition-uk: https://github.com/egorsmkv/speech-recognition-uk
-      labels: "https://models.silero.ai/models/ua/ua_v1_labels.json"
-      jit: "https://models.silero.ai/models/ua/ua_v1_jit.model"
-      jit_q: "https://models.silero.ai/models/ua/ua_v1_jit_q.model"
+      labels: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v1/ua_v1_labels.json"
+      jit: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v1/ua_v1_jit.model"
+      jit_q: "https://file-1258430491.cos.ap-shanghai.myqcloud.com/stt/ua/v1/ua_v1_jit_q.model"
 tts_models:
   ru:
     aidar_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_aidar.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/aidar_v2/v2_aidar.pt'
         sample_rate: [8000, 16000]
     aidar_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_aidar_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/aidar_8khz/latest/v1_aidar_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_aidar_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/aidar_8khz/v1/v1_aidar_8000.jit'
         sample_rate: 8000
     aidar_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_aidar_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/aidar_16khz/latest/v1_aidar_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_aidar_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/aidar_16khz/v1/v1_aidar_16000.jit'
         sample_rate: 16000
     baya_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_baya.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/baya_v2/v2_baya.pt'
         sample_rate: [8000, 16000] 
     baya_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_baya_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/baya_8khz/latest/v1_baya_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_baya_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/baya_8khz/v1/v1_baya_8000.jit'
         sample_rate: 8000
     baya_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_baya_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/baya_16khz/latest/v1_baya_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_baya_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/baya_16khz/v1/v1_baya_16000.jit'
         sample_rate: 16000
     irina_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_irina.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_v2/v2_irina.pt'
         sample_rate: [8000, 16000] 
     irina_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_irina_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_8khz/v1_irina_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_irina_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_8khz/v1_irina_8000.jit'
         sample_rate: 8000
     irina_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_irina_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_16khz/latest/v1_irina_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_irina_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_16khz/latest/v1_irina_16000.jit'
         sample_rate: 16000
     kseniya_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_kseniya.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/kseniya_v2/v2_kseniya.pt'
         sample_rate: [8000, 16000]
     kseniya_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_kseniya_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/kseniya_8khz/v1_kseniya_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_kseniya_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/kseniya_8khz/v1_kseniya_8000.jit'
         sample_rate: 8000
     kseniya_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_kseniya_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/kseniya_16khz/v1_kseniya_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_kseniya_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/kseniya_16khz/v1_kseniya_16000.jit'
         sample_rate: 16000
     natasha_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_natasha.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/natasha_v2/v2_natasha.pt'
         sample_rate: [8000, 16000]
     natasha_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_natasha_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/natasha_8khz/v1_natasha_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_natasha_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/natasha_8khz/v1_natasha_8000.jit'
         sample_rate: 8000
     natasha_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_natasha_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_16khz/latest/v1_irina_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_natasha_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/irina_16khz/latest/v1_irina_16000.jit'
         sample_rate: 16000
     ruslan_v2:
       latest:
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        package: 'https://models.silero.ai/models/tts/ru/v2_ruslan.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/ruslan_v2/v2_ruslan.pt'
         sample_rate: [8000, 16000]
     ruslan_8khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_ruslan_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/ruslan_8khz/v1_ruslan_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_ruslan_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/ruslan_8khz/v1_ruslan_8000.jit'
         sample_rate: 8000
     ruslan_16khz:
       latest:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_ruslan_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/ruslan_16khz/v1_ruslan_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~абвгдеёжзийклмнопрстуфхцчшщъыьэюя +.,!?…:;–'
         example: 'В н+едрах т+ундры в+ыдры в г+етрах т+ырят в в+ёдра +ядра к+едров.'
-        jit: 'https://models.silero.ai/models/tts/ru/v1_ruslan_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/ru/ruslan_16khz/v1_ruslan_16000.jit'
         sample_rate: 16000
   en:
     lj_v2:
       latest:
         example: 'Can you can a canned can into an un-canned can like a canner can can a canned can into an un-canned can?'
-        package: 'https://models.silero.ai/models/tts/en/v2_lj.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/en/lj_v2/v2_lj.pt'
         sample_rate: [8000, 16000]
     lj_8khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyz .,!?…:;–'
         example: 'Can you can a canned can into an un-canned can like a canner can can a canned can into an un-canned can?'
-        jit: 'https://models.silero.ai/models/tts/en/v1_lj_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/en/lj_8khz/v1_lj_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyz .,!?…:;–'
         example: 'Can you can a canned can into an un-canned can like a canner can can a canned can into an un-canned can?'
-        jit: 'https://models.silero.ai/models/tts/en/v1_lj_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/en/lj_8khz/v1_lj_8000.jit'
         sample_rate: 8000
     lj_16khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyz .,!?…:;–'
         example: 'Can you can a canned can into an un-canned can like a canner can can a canned can into an un-canned can?'
-        jit: 'https://models.silero.ai/models/tts/en/v1_lj_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/en/lj_16khz/v1_lj_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyz .,!?…:;–'
         example: 'Can you can a canned can into an un-canned can like a canner can can a canned can into an un-canned can?'
-        jit: 'https://models.silero.ai/models/tts/en/v1_lj_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/en/lj_16khz/v1_lj_16000.jit'
         sample_rate: 16000
   de:
     thorsten_v2:
       latest:
         example: 'Fischers Fritze fischt frische Fische, Frische Fische fischt Fischers Fritze.'
-        package: 'https://models.silero.ai/models/tts/de/v2_thorsten.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/de/thorsten_v2/v2_thorsten.pt'
         sample_rate: [8000, 16000]
     thorsten_8khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzäöüß .,!?…:;–'
         example: 'Fischers Fritze fischt frische Fische, Frische Fische fischt Fischers Fritze.'
-        jit: 'https://models.silero.ai/models/tts/de/v1_thorsten_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/de/thorsten_8khz/v1_thorsten_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzäöüß .,!?…:;–'
         example: 'Fischers Fritze fischt frische Fische, Frische Fische fischt Fischers Fritze.'
-        jit: 'https://models.silero.ai/models/tts/de/v1_thorsten_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/de/thorsten_8khz/v1_thorsten_8000.jit'
         sample_rate: 8000
     thorsten_16khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzäöüß .,!?…:;–'
         example: 'Fischers Fritze fischt frische Fische, Frische Fische fischt Fischers Fritze.'
-        jit: 'https://models.silero.ai/models/tts/de/v1_thorsten_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/de/thorsten_16khz/v1_thorsten_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzäöüß .,!?…:;–'
         example: 'Fischers Fritze fischt frische Fische, Frische Fische fischt Fischers Fritze.'
-        jit: 'https://models.silero.ai/models/tts/de/v1_thorsten_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/de/thorsten_16khz/v1_thorsten_16000.jit'
         sample_rate: 16000
   es:
     tux_v2:
       latest:
         example: 'Hoy ya es ayer y ayer ya es hoy, ya llegó el día, y hoy es hoy.'
-        package: 'https://models.silero.ai/models/tts/es/v2_tux.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/es/tux/v2_tux.pt'
         sample_rate: [8000, 16000]
     tux_8khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzáéíñóú .,!?…:;–¡¿'
         example: 'Hoy ya es ayer y ayer ya es hoy, ya llegó el día, y hoy es hoy.'
-        jit: 'https://models.silero.ai/models/tts/es/v1_tux_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/es/tux_8khz/v1_tux_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzáéíñóú .,!?…:;–¡¿'
         example: 'Hoy ya es ayer y ayer ya es hoy, ya llegó el día, y hoy es hoy.'
-        jit: 'https://models.silero.ai/models/tts/es/v1_tux_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/es/tux_8khz/v1_tux_8000.jit'
         sample_rate: 8000
     tux_16khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzáéíñóú .,!?…:;–¡¿'
         example: 'Hoy ya es ayer y ayer ya es hoy, ya llegó el día, y hoy es hoy.'
-        jit: 'https://models.silero.ai/models/tts/es/v1_tux_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/es/tux_16khz/v1_tux_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzáéíñóú .,!?…:;–¡¿'
         example: 'Hoy ya es ayer y ayer ya es hoy, ya llegó el día, y hoy es hoy.'
-        jit: 'https://models.silero.ai/models/tts/es/v1_tux_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/es/tux_16khz/v1_tux_16000.jit'
         sample_rate: 16000
   fr:
     gilles_v2:
       latest:
         example: 'Je suis ce que je suis, et si je suis ce que je suis, qu’est ce que je suis.'
-        package: 'https://models.silero.ai/models/tts/fr/v2_gilles.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/fr/gilles_v2/v2_gilles.pt'
         sample_rate: [8000, 16000]
     gilles_8khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzéàèùâêîôûç .,!?…:;–'
         example: 'Je suis ce que je suis, et si je suis ce que je suis, qu’est ce que je suis.'
-        jit: 'https://models.silero.ai/models/tts/fr/v1_gilles_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/fr/gilles_8khz/v1_gilles_8000.jit'
         sample_rate: 8000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzéàèùâêîôûç .,!?…:;–'
         example: 'Je suis ce que je suis, et si je suis ce que je suis, qu’est ce que je suis.'
-        jit: 'https://models.silero.ai/models/tts/fr/v1_gilles_8000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/fr/gilles_8khz/v1_gilles_8000.jit'
         sample_rate: 8000
     gilles_16khz:
       latest:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzéàèùâêîôûç .,!?…:;–'
         example: 'Je suis ce que je suis, et si je suis ce que je suis, qu’est ce que je suis.'
-        jit: 'https://models.silero.ai/models/tts/fr/v1_gilles_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/fr/gilles_16khz/v1_gilles_16000.jit'
         sample_rate: 16000
       v1:
         tokenset: '_~abcdefghijklmnopqrstuvwxyzéàèùâêîôûç .,!?…:;–'
         example: 'Je suis ce que je suis, et si je suis ce que je suis, qu’est ce que je suis.'
-        jit: 'https://models.silero.ai/models/tts/fr/v1_gilles_16000.jit'
+        jit: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/fr/gilles_16khz/v1_gilles_16000.jit'
         sample_rate: 16000
   multi:
     multi_v2:
       latest:
-        package: 'https://models.silero.ai/models/tts/multi/v2_multi.pt'
+        package: 'https://file-1258430491.cos.ap-shanghai.myqcloud.com/tts/multi/v2_multi.pt'
         sample_rate: [8000, 16000]
         speakers: 
           aidar:
