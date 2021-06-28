@@ -17,7 +17,7 @@ def silero_stt(language='en', **kwargs):
     Returns a model, decoder object and a set of utils
     Please see https://github.com/snakers4/silero-models for usage examples
     """
-    torch.hub.download_url_to_file('https://raw.githubusercontent.com/snakers4/silero-models/master/models.yml',
+    torch.hub.download_url_to_file('https://raw.githubusercontent.com/WidgetA/silero-models/master/models.yml',
                                    'latest_silero_models.yml',
                                    progress=False)
     models = OmegaConf.load('latest_silero_models.yml')
@@ -42,7 +42,7 @@ def silero_tts(language='en',
     Returns a model and a set of utils
     Please see https://github.com/snakers4/silero-models for usage examples
     """
-    torch.hub.download_url_to_file('https://raw.githubusercontent.com/snakers4/silero-models/master/models.yml',
+    torch.hub.download_url_to_file('https://raw.githubusercontent.com/WidgetA/silero-models/master/models.yml',
                                    'latest_silero_models.yml',
                                    progress=False)
     models = OmegaConf.load('latest_silero_models.yml')
